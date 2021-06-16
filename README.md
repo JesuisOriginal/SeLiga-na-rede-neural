@@ -1,0 +1,2 @@
+# Projeto Se Liga
+**Obs: O nyanboost ta meio lento pra abrir pela quantidade de output, pra ver as celulas com o output abrir o FOTOS e ver pelas fotos, ou abrir o que tem Light no nome e rodar. Ele ta com > 111MB.**

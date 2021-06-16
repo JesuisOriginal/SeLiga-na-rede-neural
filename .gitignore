@@ -1,0 +1,11 @@
+/test
+*.npy
+*.csv
+/imgs
+/.vs*
+/catboost_info
+/.ipyn*
+/Nyanboost/.ipyn*
+/tensor_digito/.ipyn*
+/tensor_letra/.ipyn*
+/Nyanboost/catboost_info
