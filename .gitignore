@@ -1,4 +1,5 @@
-/test
+/test/cnn*
+/test/.ipyn*
 *.npy
 *.csv
 /imgs
